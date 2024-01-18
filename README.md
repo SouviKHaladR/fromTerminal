@@ -1,0 +1,2 @@
+#fromTerminal
+Hii helow word
